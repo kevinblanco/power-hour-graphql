@@ -1,6 +1,6 @@
 {
   "name": "KG-GraphQL",
-  "version": "1.0",
+  "version": "1.6.1",
   "description": "GraphQL example",
   "main": "./src/index.js",
   "config": {
